@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 20 16:44:15 2016
 
-@author: Georgie
-"""
 
 # Draw a random geometric graph using python's networkx package
 
